@@ -12,5 +12,9 @@
             "email": "rohit@sumayinfotech.com"
         }
     ],
-    "require": {}
+    "require": {
+        "rohitsondigala/packageone": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
