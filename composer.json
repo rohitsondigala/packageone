@@ -1,0 +1,16 @@
+{
+    "name": "rohitsondigala/packageone",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "RohitSondigala\\Packageone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rohitsondigala",
+            "email": "rohit@sumayinfotech.com"
+        }
+    ],
+    "require": {}
+}
